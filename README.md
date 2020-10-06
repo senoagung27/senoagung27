@@ -21,5 +21,9 @@ My Name is Fiorent Nicholas Yehardi, a Passionate Mobile Developer, currently wo
 
 #### Follow me
 [![Twitter: seno_agung](https://img.shields.io/twitter/follow/fionicholas?style=social)](https://twitter.com/senoagung_agung)
-[![Linkedin: seno-agung-pradityo-2baa44151](https://img.shields.io/badge/-seno-agung-pradityo-2baa44151-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seno-agung-pradityo-2baa44151/)](https://www.linkedin.com/in/seno-agung-pradityo-2baa44151/)
+[![Linkedin: seno-agung-pradityo-2baa44151](https://img.shields.io/badge/-fionicholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fionicholas/)](https://www.linkedin.com/in/seno-agung-pradityo-2baa44151/)
 [![GitHub senoagung27](https://img.shields.io/github/followers/fionicholas?label=follow&style=social)](https://github.com/senoagung27)
+
+[![Twitter: fionicholas](https://img.shields.io/twitter/follow/fionicholas?style=social)](https://twitter.com/fionicholas)
+[![Linkedin: fionicholas](https://img.shields.io/badge/-fionicholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fionicholas/)](https://www.linkedin.com/in/fionicholas/)
+[![GitHub fionicholas](https://img.shields.io/github/followers/fionicholas?label=follow&style=social)](https://github.com/fionicholas)
