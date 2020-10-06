@@ -12,11 +12,6 @@ My Name is Fiorent Nicholas Yehardi, a Passionate Mobile Developer, currently wo
 </p>
 
 
-#### Follow me
-[![Twitter: fionicholas](https://img.shields.io/twitter/follow/fionicholas?style=social)](https://twitter.com/fionicholas)
-[![Linkedin: fionicholas](https://img.shields.io/badge/-fionicholas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fionicholas/)](https://www.linkedin.com/in/fionicholas/)
-[![GitHub fionicholas](https://img.shields.io/github/followers/fionicholas?label=follow&style=social)](https://github.com/fionicholas)
-
 **Languages and Tools:**  
 
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -24,14 +19,7 @@ My Name is Fiorent Nicholas Yehardi, a Passionate Mobile Developer, currently wo
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Follow me
+[![Twitter: seno_agung](https://img.shields.io/twitter/follow/fionicholas?style=social)](https://twitter.com/senoagung_agung)
+[![Linkedin: seno-agung-pradityo-2baa44151](https://img.shields.io/badge/-seno-agung-pradityo-2baa44151-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seno-agung-pradityo-2baa44151/)](https://www.linkedin.com/in/seno-agung-pradityo-2baa44151/)
+[![GitHub senoagung27](https://img.shields.io/github/followers/fionicholas?label=follow&style=social)](https://github.com/senoagung27)
