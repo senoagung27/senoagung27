@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Seno AGung Pradityo, a Passionate Frontend Developer.
+My Name is Seno Agung Pradityo, a Passionate Frontend Developer.
 
 ### Tools:
 <p>
