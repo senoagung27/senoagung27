@@ -1,17 +1,16 @@
 <h1 align="center"> Hi 👋, I'm Seno Agung Pradityo</a></h1>
 <h3 align="center">Backend Developer </h3>
 
+[![Youtube](https://img.shields.io/static/v1?label=CoderJedi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/coder_jedi?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github/followers/Akanksha1212?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: AkankshaSingh](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/AkankshaSingh/)][linkedin]
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fresh Factory
 - 🌱 I’m currently learning expressjs and golang
-
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
-</p>
-
 
 **Languages and Tools:**  
 
