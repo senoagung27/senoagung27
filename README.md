@@ -21,8 +21,8 @@ My Name is Seno Agung Pradityo, a Passionate Fullstack Developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Fresh Factory
+- 🌱 I’m currently learning expressjs and golang
 
 
 
