@@ -1,6 +1,5 @@
-## Hi there 👋
-
-My Name is Seno Agung Pradityo, a Passionate Fullstack Developer.
+<h1 align="center"> Hi 👋, I'm Seno Agung Pradityo</a></h1>
+<h3 align="center">Backend Developer </h3>
 
 Here are some ideas to get you started:
 
