@@ -2,6 +2,11 @@
 
 My Name is Seno Agung Pradityo, a Passionate Fullstack Developer.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Fresh Factory
+- 🌱 I’m currently learning expressjs and golang
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
@@ -24,11 +29,6 @@ My Name is Seno Agung Pradityo, a Passionate Fullstack Developer.
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-    
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Fresh Factory
-- 🌱 I’m currently learning expressjs and golang
 
 
 
